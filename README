@@ -1,0 +1,4 @@
+# Agile Web Development with Rails 5 Notes and Codes
+
+- `belongs_to` association records are now required by default - http://blog.bigbinary.com/2016/02/15/rails-5-makes-belong-to-association-required-by-default.html
+- `assigns` tests are now deprecated - Use controller testing gem https://github.com/rails/rails-controller-testing
